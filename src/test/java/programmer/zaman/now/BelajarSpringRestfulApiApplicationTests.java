@@ -1,10 +1,10 @@
-package com.spring.spring_demo;
+package programmer.zaman.now;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringDemoApplicationTests {
+class BelajarSpringRestfulApiApplicationTests {
 
 	@Test
 	void contextLoads() {
